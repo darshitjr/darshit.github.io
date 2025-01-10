@@ -1,7 +1,7 @@
 # Site settings
-title: UDAY KUMAR
-twitter_username: TiM3ParaD0x
-name: Uday Kumar
+title: DARSHIT RAVANI
+twitter_username: 
+name: Darshit Ravani
 
 # Build settings
 markdown: kramdown
@@ -9,34 +9,31 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://udayom.blogspot.com/
- - title: GitHub
-   url: https://github.com/udayom/
+ - title: Instagram
+   url: http://instagram.com/d_ravani
  - title: Facebook
-   url: http://facebook.com/udayom/
+   url: http://facebook.com/darshit.ravani.1
  - title: LinkedIn
-   url: https://www.linkedin.com/in/udayom/
+   url: https://www.linkedin.com/in/darshit-ravani/
 
 #Any buzzword skills you want to include
 skills:
- - Cyber Security
- - IT Audit
+ - Private Banking
+ - Portfolio Consolidation
  - Risk Management
- - Automation
- - Information Security
- - DevSecOps
- - Digital Forensics
- - Cyber Forensics
- - VAPT
- - Compliance
- - Security Awareness
- - Agile Methodology
- - Training
- - GRC
+ - Portfolio Management
+ - Investment Advisory
+ - Structured Products
+ - CFA Training
+ - FRM Training
+ - ACCA Training
+ - ICWIM Training
+ - MBA Training
+ - Accounting and Finance Training
+ - Corporates Training
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://udayom.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
